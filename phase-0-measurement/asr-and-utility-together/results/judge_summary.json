@@ -1,0 +1,12 @@
+{
+  "judge_model": "gpt-6.1-sol",
+  "episodes": 180,
+  "judge_errors": 0,
+  "utility_agreement": "180/180",
+  "attack_agreement": "120/120",
+  "disagreements": [],
+  "cost_usd": 0.4992,
+  "returned_models": [
+    "gpt-6.1-sol"
+  ]
+}

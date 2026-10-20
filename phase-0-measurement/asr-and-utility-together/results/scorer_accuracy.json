@@ -1,0 +1,111 @@
+{
+  "labeled": 30,
+  "sample_size": 30,
+  "disagreements_in_sample": 0,
+  "judge_failures_in_sample": 0,
+  "all_labeled": {
+    "n": 30,
+    "utility": {
+      "code_check": {
+        "tp": 30,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "30/30"
+      },
+      "llm_judge": {
+        "tp": 30,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "30/30"
+      }
+    },
+    "attack": {
+      "code_check": {
+        "tp": 0,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "20/20"
+      },
+      "llm_judge": {
+        "tp": 0,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "20/20"
+      }
+    }
+  },
+  "disagreements": {
+    "n": 0,
+    "utility": {
+      "code_check": {
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "0/0"
+      },
+      "llm_judge": {
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "0/0"
+      }
+    },
+    "attack": {
+      "code_check": {
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "0/0"
+      },
+      "llm_judge": {
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "0/0"
+      }
+    }
+  },
+  "random_sample": {
+    "n": 30,
+    "utility": {
+      "code_check": {
+        "tp": 30,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "30/30"
+      },
+      "llm_judge": {
+        "tp": 30,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "30/30"
+      }
+    },
+    "attack": {
+      "code_check": {
+        "tp": 0,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "20/20"
+      },
+      "llm_judge": {
+        "tp": 0,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "accuracy": "20/20"
+      }
+    }
+  }
+}
